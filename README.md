@@ -34,10 +34,26 @@ Pessoas com deficiência física, idosos e qualquer pessoa que necessite de info
 
   
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
+1. Usuários Finais
+- Pessoas com Deficiência:
+  - Principal público-alvo, utilizando o app para planejar rotas acessíveis.
+  - Precisam de informações detalhadas sobre rampas, elevadores, calçadas niveladas, transporte acessível, etc.
+- Idosos:
+  - Buscam rotas mais seguras e adaptadas às suas limitações físicas, como calçadas com menos obstáculos.
+- Cuidadores ou Acompanhantes:
+  - Planejam trajetos para pessoas com mobilidade reduzida ou que precisam de apoio.
+- Usuario não logado:
+  - Visualização do mapa com rotas principais ja cadastradas
+ 
+2. Administradores da Plataforma
+- Equipe de Suporte Técnico:
+  - Garante que o aplicativo funcione corretamente e implemente melhorias baseadas no feedback dos usuários.
+- Moderadores:
+  - Validam informações enviadas pelos usuários e evitam dados incorretos ou desatualizados.
+- Analistas de Dados:
+  - Avaliam os dados coletados para gerar relatórios de impacto e identificar áreas prioritárias para intervenção.
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
