@@ -57,7 +57,27 @@ Pessoas com deficiência física, idosos e qualquer pessoa que necessite de info
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+1. Funcionalidades Acessíveis a Todos os Usuários (Sem Login)
+- Consulta de Rotas Acessíveis:
+   – Pesquisa de trajetos adaptados considerando rampas, calçadas niveladas e transporte acessível.
+- Visualização de Mapas:
+  – Exibição interativa de pontos de acessibilidade, como elevadores, banheiros adaptados e semáforos sonoros.
+- Informações sobre Transporte Público:
+  – Consulta de veículos acessíveis, horários e localização de estações adaptadas.
+- Consulta de Avaliações:
+  – Visualização de avaliações feitas por outros usuários sobre a acessibilidade de locais e rotas.
+
+2. Funcionalidades Restritas a Usuários Logados
+-  Personalização de Rotas:
+  – Configuração de preferências individuais (ex: evitar escadas, priorizar transporte público).
+-  Colaboração com a Comunidade:
+  – Envio de relatos e denúncias sobre problemas de acessibilidade (ex: rampas bloqueadas).
+-  Avaliação de Locais e Rotas:
+   – Adição de comentários e notas sobre a qualidade da acessibilidade de espaços públicos e privados.
+-  Histórico de Rotas e Locais Favoritos:
+  – Salvamento de trajetos personalizados e pontos frequentes.
+-  Modo Offline:
+  – Download de mapas e trajetos para consulta sem internet.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
